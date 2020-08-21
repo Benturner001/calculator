@@ -54,12 +54,12 @@ body{
      -webkit-transform: scale(1.5);
      transform: scale(1.5);
    } 
-   /* @media only screen and (max-width: 600px){
+    @media only screen and (max-width: 600px){ 
      .overlay{
        margin-left: 1%;
        margin-right: 2%;
      }
-   } */
+   } 
    /* @media only screen and (max-width: 800px){
      .overlay{
        margin-left: 1%;
