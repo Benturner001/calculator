@@ -99,10 +99,10 @@ body{
      font-weight: 600;
      font-size: 18px;
    }
-   /* .footer-copyright a{
+  .footer-copyright a{
    color: rgb(255, 255, 255);;
    font-weight: 600;
-   } */
+   }
    /* .footer-copyright a:hover{
      color: rgb(254, 254, 254);
      font-weight: 700;
