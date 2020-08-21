@@ -26,7 +26,7 @@ body{
      opacity: 0.9;
      border-radius: 10px;
    } 
-    #get{ */
+    #get{
      color: whitesmoke;
      text-shadow: 2px 2px 5px black;
      margin-bottom: 10px;
@@ -37,10 +37,10 @@ body{
      color:rgb(255, 255, 255);
      font-family: 'Quattrocento', serif;
    } 
-   /* .form{
+   .form{
      margin-bottom: 20px;
      padding-bottom: 20px;
-   } */
+   } 
    /* .form-group{
      color: rgb(255, 255, 255);
      font-weight: 600;
