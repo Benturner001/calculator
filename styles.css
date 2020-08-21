@@ -71,11 +71,11 @@ body{
      h2{
        font-size:22px;
      }
-     /* #heading img{
+     #heading img{
        float: left;
        width: 40%;
        height: 60%;;
-     } */
+     } 
    }
    /* #heading img{
      float: left;
