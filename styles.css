@@ -88,12 +88,12 @@ body{
    .card-body{
      color: rgb(0, 0, 0);
    } 
-   /* .card-deck{
+   .card-deck{
      padding-bottom: 20px;
      font-weight: 600;
      font-family: 'Sorts Mill Goudy', serif;
      font-size: 18px;
-   } */
+   }
    /* .footer-copyright{
      color: rgb(255, 255, 255);
      font-weight: 600;
