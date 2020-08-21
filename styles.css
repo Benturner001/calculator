@@ -85,9 +85,9 @@ body{
    .card{
      background: rgb(145, 168, 192);
    } 
-   /* .card-body{
+   .card-body{
      color: rgb(0, 0, 0);
-   } */
+   } 
    /* .card-deck{
      padding-bottom: 20px;
      font-weight: 600;
